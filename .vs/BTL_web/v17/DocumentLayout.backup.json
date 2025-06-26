@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\BTL_web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5290D3-86E0-4A24-BC18-F52D391A0A7E}|BTL_web\\BTL_web.csproj|c:\\users\\admin\\source\\repos\\btl_web\\btl_web\\dangnhapform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5E5290D3-86E0-4A24-BC18-F52D391A0A7E}|BTL_web\\BTL_web.csproj|solutionrelative:btl_web\\dangnhapform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5290D3-86E0-4A24-BC18-F52D391A0A7E}|BTL_web\\BTL_web.csproj|C:\\Users\\Admin\\source\\repos\\BTL_web\\btl_web\\quanlykho\\confirm.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5290D3-86E0-4A24-BC18-F52D391A0A7E}|BTL_web\\BTL_web.csproj|solutionrelative:btl_web\\quanlykho\\confirm.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5290D3-86E0-4A24-BC18-F52D391A0A7E}|BTL_web\\BTL_web.csproj|C:\\Users\\Admin\\source\\repos\\BTL_web\\btl_web\\quanlykho\\confirm.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5E5290D3-86E0-4A24-BC18-F52D391A0A7E}|BTL_web\\BTL_web.csproj|solutionrelative:btl_web\\quanlykho\\confirm.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5290D3-86E0-4A24-BC18-F52D391A0A7E}|BTL_web\\BTL_web.csproj|C:\\Users\\Admin\\source\\repos\\BTL_web\\btl_web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5E5290D3-86E0-4A24-BC18-F52D391A0A7E}|BTL_web\\BTL_web.csproj|solutionrelative:btl_web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5290D3-86E0-4A24-BC18-F52D391A0A7E}|BTL_web\\BTL_web.csproj|C:\\Users\\Admin\\source\\repos\\BTL_web\\btl_web\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5E5290D3-86E0-4A24-BC18-F52D391A0A7E}|BTL_web\\BTL_web.csproj|solutionrelative:btl_web\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Confirm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BTL_web\\BTL_web\\QuanLyKho\\Confirm.aspx.cs",
+              "RelativeDocumentMoniker": "BTL_web\\QuanLyKho\\Confirm.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BTL_web\\BTL_web\\QuanLyKho\\Confirm.aspx.cs",
+              "RelativeToolTip": "BTL_web\\QuanLyKho\\Confirm.aspx.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T15:48:43.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Confirm.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BTL_web\\BTL_web\\QuanLyKho\\Confirm.aspx",
+              "RelativeDocumentMoniker": "BTL_web\\QuanLyKho\\Confirm.aspx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BTL_web\\BTL_web\\QuanLyKho\\Confirm.aspx",
+              "RelativeToolTip": "BTL_web\\QuanLyKho\\Confirm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-16T15:48:31.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BTL_web\\BTL_web\\Web.Release.config",
+              "RelativeDocumentMoniker": "BTL_web\\Web.Release.config",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BTL_web\\BTL_web\\Web.Release.config",
+              "RelativeToolTip": "BTL_web\\Web.Release.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-12T08:50:49.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BTL_web\\BTL_web\\Web.config",
+              "RelativeDocumentMoniker": "BTL_web\\Web.config",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BTL_web\\BTL_web\\Web.config",
+              "RelativeToolTip": "BTL_web\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-12T08:50:28.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DangNhapForm.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BTL_web\\BTL_web\\DangNhapForm.aspx",
+              "RelativeDocumentMoniker": "BTL_web\\DangNhapForm.aspx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BTL_web\\BTL_web\\DangNhapForm.aspx",
+              "RelativeToolTip": "BTL_web\\DangNhapForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-08T06:57:26.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
